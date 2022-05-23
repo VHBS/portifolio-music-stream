@@ -1,1 +1,3 @@
-# portifolio-music-stream-2
+# Music Stream
+
+Pasta `./src/services` fornecida pela Trybe.
